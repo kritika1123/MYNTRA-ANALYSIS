@@ -1,0 +1,2 @@
+Refined data accuracy by 20% using advanced filtering and analysis techniques. Designed a multi-section dashboard with main views, cards, charts, advanced charts, maps, and table-matrix, improving user engagement and data accessibility by 30%. 
+Enhanced leading to more informed decision-making by 15% through actionable visual insights.Revamped reporting processes by integrating automated data feeds, ensuring real-time access to insights for 20+ executives; increased the frequency of data-driven decisions by 50%, enhancing overall strategic alignment
